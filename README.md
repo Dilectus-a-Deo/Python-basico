@@ -1,7 +1,8 @@
 # Exercícios Básicos da (Phyton Brasil)
 
+![OIP](https://github.com/Dilectus-a-Deo/Python-basico/assets/156959341/ecab2fd9-3373-45fd-8e5e-981b6fb814bc)
 
-![zoo_tycoon_profile__green_tree_python_by_bonnerscar_dgk7kn2-350t](https://github.com/Dilectus-a-Deo/Python-basico/assets/156959341/41df22f0-257a-44d1-86f3-5bbc187c154c)
+
 
 
 
