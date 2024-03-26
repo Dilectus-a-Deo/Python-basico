@@ -1,3 +1,4 @@
 # Exercícios Básicos da (Phyton Brasil)
 
-![download](https://github.com/Dilectus-a-Deo/Python-basico/assets/156959341/0daff21a-9def-4fa2-bade-543d47ff9706)
+![451675](https://github.com/Dilectus-a-Deo/Python-basico/assets/156959341/98a5feeb-ee45-4d71-a457-332b4c5ea352)
+
